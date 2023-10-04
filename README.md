@@ -5,3 +5,4 @@
 ![git00 4](https://github.com/SagantAVZ/LaboratorioGit00/assets/143424339/53801d7b-2ddb-4599-a730-5029f65d2c0d)
 ![git00 5](https://github.com/SagantAVZ/LaboratorioGit00/assets/143424339/8186cea5-4043-4e76-8699-26746faedd90)
 ![git00 6](https://github.com/SagantAVZ/LaboratorioGit00/assets/143424339/134945b3-2ade-435d-b339-66f91c9007a1)
+![git00 7](https://github.com/SagantAVZ/LaboratorioGit00/assets/143424339/29802f56-f7ce-48da-a5af-9b2271c8fa92)
